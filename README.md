@@ -1,1 +1,1 @@
-# pballratings
+# NewPTR Pickleball Ratings
